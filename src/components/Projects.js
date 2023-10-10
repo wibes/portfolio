@@ -20,7 +20,7 @@ const projectDescription = [
   },
   {
     key: 3,
-    icon: ecomgit,
+    icon: ecom,
     projectName: "E Commerce",
     projectDescription:
       "Project involved developing e-commerce application that contains various brands like Mondelez, Coco-Cola and Heineken. This application is used by retailers to purchase the products directly from the above-mentioned brands",
